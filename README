@@ -1,0 +1,14 @@
+
+
+
+To run python tests:
+python -m unittest discover tests/unit_tests   
+
+To run Seluim tests:
+python tests/web_tests/test_web_page.py
+*please not the the text file path will need to be update with your file path
+
+
+To run flask application :
+python app.py
+

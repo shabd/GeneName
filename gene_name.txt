@@ -1,0 +1,1001 @@
+
+alpha-1-B glycoprotein
+APOBEC1 complementation factor
+alpha-2-macroglobulin
+alpha-2-macroglobulin like 1
+alpha 1,3-galactosyltransferase 2
+alpha 1,4-galactosyltransferase (P blood group)
+alpha-1,4-N-acetylglucosaminyltransferase
+aladin WD repeat nucleoporin
+acetoacetyl-CoA synthetase
+arylacetamide deacetylase
+arylacetamide deacetylase like 2
+arylacetamide deacetylase like 3
+arylacetamide deacetylase like 4
+aminoadipate aminotransferase
+alpha and gamma adaptin binding protein
+AP2 associated kinase 1
+adipogenesis associated Mth938 domain containing
+angio associated migratory cell protein
+aralkylamine N-acetyltransferase
+AAR2 splicing factor
+alanine and arginine rich domain containing protein
+alanyl-tRNA synthetase 1
+alanyl-tRNA synthetase 2, mitochondrial
+alanyl-tRNA synthetase domain containing 1
+aminoadipate-semialdehyde dehydrogenase
+aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase
+aminoadipate-semialdehyde synthase
+apoptosis antagonizing transcription factor
+apoptosis associated tyrosine kinase
+4-aminobutyrate aminotransferase
+ATP binding cassette subfamily A member 1
+ATP binding cassette subfamily A member 2
+ATP binding cassette subfamily A member 3
+ATP binding cassette subfamily A member 4
+ATP binding cassette subfamily A member 5
+ATP binding cassette subfamily A member 6
+ATP binding cassette subfamily A member 7
+ATP binding cassette subfamily A member 8
+ATP binding cassette subfamily A member 9
+ATP binding cassette subfamily A member 10
+ATP binding cassette subfamily A member 12
+ATP binding cassette subfamily A member 13
+ATP binding cassette subfamily B member 1
+ATP binding cassette subfamily B member 4
+ATP binding cassette subfamily B member 5
+ATP binding cassette subfamily B member 6 (Langereis blood group)
+ATP binding cassette subfamily B member 7
+ATP binding cassette subfamily B member 8
+ATP binding cassette subfamily B member 9
+ATP binding cassette subfamily B member 10
+ATP binding cassette subfamily B member 11
+ATP binding cassette subfamily C member 1
+ATP binding cassette subfamily C member 2
+ATP binding cassette subfamily C member 3
+ATP binding cassette subfamily C member 4
+ATP binding cassette subfamily C member 5
+ATP binding cassette subfamily C member 6
+ATP binding cassette subfamily C member 8
+ATP binding cassette subfamily C member 9
+ATP binding cassette subfamily C member 10
+ATP binding cassette subfamily C member 11
+ATP binding cassette subfamily C member 12
+ATP binding cassette subfamily D member 1
+ATP binding cassette subfamily D member 2
+ATP binding cassette subfamily D member 3
+ATP binding cassette subfamily D member 4
+ATP binding cassette subfamily E member 1
+ATP binding cassette subfamily F member 1
+ATP binding cassette subfamily F member 2
+ATP binding cassette subfamily F member 3
+ATP binding cassette subfamily G member 1
+ATP binding cassette subfamily G member 2 (Junior blood group)
+ATP binding cassette subfamily G member 4
+ATP binding cassette subfamily G member 5
+ATP binding cassette subfamily G member 8
+abhydrolase domain containing 1
+abhydrolase domain containing 2, acylglycerol lipase
+abhydrolase domain containing 3, phospholipase
+abhydrolase domain containing 4, N-acyl phospholipase B
+abhydrolase domain containing 5, lysophosphatidic acid acyltransferase
+abhydrolase domain containing 6, acylglycerol lipase
+abhydrolase domain containing 8
+abhydrolase domain containing 10, depalmitoylase
+abhydrolase domain containing 11
+abhydrolase domain containing 12, lysophospholipase
+abhydrolase domain containing 12B
+abhydrolase domain containing 13
+abhydrolase domain containing 14A
+abhydrolase domain containing 14B
+abhydrolase domain containing 15
+abhydrolase domain containing 16A, phospholipase
+abhydrolase domain containing 16B
+abhydrolase domain containing 17A, depalmitoylase
+abhydrolase domain containing 17B, depalmitoylase
+abhydrolase domain containing 17C, depalmitoylase
+abhydrolase domain containing 18
+abl interactor 1
+abl interactor 2
+ABI family member 3
+ABI family member 3 binding protein
+actin binding transcription modulator
+ABL proto-oncogene 1, non-receptor tyrosine kinase
+ABL proto-oncogene 2, non-receptor tyrosine kinase
+actin binding LIM protein 1
+actin binding LIM protein family member 2
+actin binding LIM protein family member 3
+ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase
+ABR activator of RhoGEF and GTPase
+actin binding Rho activating protein
+ABRA C-terminal like
+abraxas 1, BRCA1 A complex subunit
+abraxas 2, BRISC complex subunit
+activator of basal transcription 1
+ankyrin repeat and BTB domain containing 1
+ankyrin repeat and BTB domain containing 2
+acetyl-CoA acyltransferase 1
+acetyl-CoA acyltransferase 2
+acetyl-CoA carboxylase alpha
+acetyl-CoA carboxylase beta
+acyl-CoA dehydrogenase family member 8
+acyl-CoA dehydrogenase family member 9
+acyl-CoA dehydrogenase family member 10
+acyl-CoA dehydrogenase family member 11
+acyl-CoA dehydrogenase long chain
+acyl-CoA dehydrogenase medium chain
+acyl-CoA dehydrogenase short chain
+acyl-CoA dehydrogenase short/branched chain
+acyl-CoA dehydrogenase very long chain
+aggrecan
+ArfGAP with coiled-coil, ankyrin repeat and PH domains 1
+ArfGAP with coiled-coil, ankyrin repeat and PH domains 2
+ArfGAP with coiled-coil, ankyrin repeat and PH domains 3
+acetyl-CoA acetyltransferase 1
+acetyl-CoA acetyltransferase 2
+acyl-CoA binding domain containing 3
+acyl-CoA binding domain containing 4
+acyl-CoA binding domain containing 5
+acyl-CoA binding domain containing 6
+acyl-CoA binding domain containing 7
+1-aminocyclopropane-1-carboxylate synthase homolog (inactive)
+1-aminocyclopropane-1-carboxylate synthase homolog (inactive) like
+ACD shelterin complex subunit and telomerase recruitment factor
+angiotensin I converting enzyme
+angiotensin converting enzyme 2
+alkaline ceramidase 1
+alkaline ceramidase 2
+alkaline ceramidase 3
+acetylcholinesterase (Cartwright blood group)
+apoptotic chromatin condensation inducer 1
+atypical chemokine receptor 1 (Duffy blood group)
+atypical chemokine receptor 2
+atypical chemokine receptor 3
+atypical chemokine receptor 4
+ATP citrate lyase
+aminocarboxymuconate semialdehyde decarboxylase
+aconitase 1
+aconitase 2
+aconitate decarboxylase 1
+acyl-CoA thioesterase 1
+acyl-CoA thioesterase 2
+acyl-CoA thioesterase 4
+acyl-CoA thioesterase 6
+acyl-CoA thioesterase 7
+acyl-CoA thioesterase 8
+acyl-CoA thioesterase 9
+acyl-CoA thioesterase 11
+acyl-CoA thioesterase 12
+acyl-CoA thioesterase 13
+acyl-CoA oxidase 1
+acyl-CoA oxidase 2
+acyl-CoA oxidase 3, pristanoyl
+acyl-CoA oxidase like
+acid phosphatase 1
+acid phosphatase 2, lysosomal
+acid phosphatase 3
+acid phosphatase 4
+acid phosphatase 5, tartrate resistant
+acid phosphatase 6, lysophosphatidic
+acid phosphatase 7, tartrate resistant (putative)
+acrosin
+acrosin binding protein
+acrosomal vesicle protein 1
+acyl-CoA synthetase bubblegum family member 1
+acyl-CoA synthetase bubblegum family member 2
+acyl-CoA synthetase family member 2
+acyl-CoA synthetase family member 3
+acyl-CoA synthetase long chain family member 1
+acyl-CoA synthetase long chain family member 3
+acyl-CoA synthetase long chain family member 4
+acyl-CoA synthetase long chain family member 5
+acyl-CoA synthetase long chain family member 6
+acyl-CoA synthetase medium chain family member 1
+acyl-CoA synthetase medium chain family member 2A
+acyl-CoA synthetase medium chain family member 2B
+acyl-CoA synthetase medium chain family member 3
+acyl-CoA synthetase medium chain family member 4
+acyl-CoA synthetase medium chain family member 5
+acyl-CoA synthetase medium chain family member 6
+acyl-CoA synthetase short chain family member 1
+acyl-CoA synthetase short chain family member 2
+acyl-CoA synthetase short chain family member 3
+actin alpha 1, skeletal muscle
+actin alpha 2, smooth muscle
+actin beta
+actin beta like 2
+actin alpha cardiac muscle 1
+actin gamma 1
+actin gamma 2, smooth muscle
+actin like 6A
+actin like 6B
+actin like 7A
+actin like 7B
+actin like 8
+actin like 9
+actin like 10
+actinin alpha 1
+actinin alpha 2
+actinin alpha 3
+actinin alpha 4
+actin related protein 1A
+actin related protein 1B
+actin related protein 2
+actin related protein 3
+actin related protein 3B
+actin related protein 3C
+actin related protein 5
+actin related protein 6
+actin related protein 8
+actin related protein 10
+actin related protein T1
+actin related protein T2
+actin related protein T3
+activin A receptor type 1
+activin A receptor type 1B
+activin A receptor type 1C
+activin A receptor type 2A
+activin A receptor type 2B
+activin A receptor like type 1
+aminoacylase 1
+aminoacylase 3
+acylphosphatase 1
+acylphosphatase 2
+adenosine deaminase
+adenosine deaminase 2
+adenosine deaminase domain containing 1
+adenosine deaminase domain containing 2
+adenosine deaminase like
+ADAM metallopeptidase domain 2
+ADAM metallopeptidase domain 7
+ADAM metallopeptidase domain 8
+ADAM metallopeptidase domain 9
+ADAM metallopeptidase domain 10
+ADAM metallopeptidase domain 11
+ADAM metallopeptidase domain 12
+ADAM metallopeptidase domain 15
+ADAM metallopeptidase domain 17
+ADAM metallopeptidase domain 18
+ADAM metallopeptidase domain 19
+ADAM metallopeptidase domain 20
+ADAM metallopeptidase domain 21
+ADAM metallopeptidase domain 22
+ADAM metallopeptidase domain 23
+ADAM metallopeptidase domain 28
+ADAM metallopeptidase domain 29
+ADAM metallopeptidase domain 30
+ADAM metallopeptidase domain 32
+ADAM metallopeptidase domain 33
+ADAM like decysin 1
+ADAM metallopeptidase with thrombospondin type 1 motif 1
+ADAM metallopeptidase with thrombospondin type 1 motif 2
+ADAM metallopeptidase with thrombospondin type 1 motif 3
+ADAM metallopeptidase with thrombospondin type 1 motif 4
+ADAM metallopeptidase with thrombospondin type 1 motif 5
+ADAM metallopeptidase with thrombospondin type 1 motif 6
+ADAM metallopeptidase with thrombospondin type 1 motif 7
+ADAM metallopeptidase with thrombospondin type 1 motif 8
+ADAM metallopeptidase with thrombospondin type 1 motif 9
+ADAM metallopeptidase with thrombospondin type 1 motif 10
+ADAM metallopeptidase with thrombospondin type 1 motif 12
+ADAM metallopeptidase with thrombospondin type 1 motif 13
+ADAM metallopeptidase with thrombospondin type 1 motif 14
+ADAM metallopeptidase with thrombospondin type 1 motif 15
+ADAM metallopeptidase with thrombospondin type 1 motif 16
+ADAM metallopeptidase with thrombospondin type 1 motif 17
+ADAM metallopeptidase with thrombospondin type 1 motif 18
+ADAM metallopeptidase with thrombospondin type 1 motif 19
+ADAM metallopeptidase with thrombospondin type 1 motif 20
+ADAMTS like 1
+ADAMTS like 2
+ADAMTS like 3
+ADAMTS like 4
+ADAMTS like 5
+ArfGAP with dual PH domains 1
+ArfGAP with dual PH domains 2
+adenosine deaminase RNA specific
+adenosine deaminase RNA specific B1
+adenosine deaminase RNA specific B2 (inactive)
+adenosine deaminase tRNA specific 1
+adenosine deaminase tRNA specific 2
+adenosine deaminase tRNA specific 3
+aarF domain containing kinase 1
+aarF domain containing kinase 2
+aarF domain containing kinase 5
+adenylate cyclase 1
+adenylate cyclase 2
+adenylate cyclase 3
+adenylate cyclase 4
+adenylate cyclase 5
+adenylate cyclase 6
+adenylate cyclase 7
+adenylate cyclase 8
+adenylate cyclase 9
+adenylate cyclase 10
+adenylate cyclase activating polypeptide 1
+ADCYAP receptor type I
+adducin 1
+adducin 2
+adducin 3
+androglobin
+adhesion G protein-coupled receptor A1
+adhesion G protein-coupled receptor A2
+adhesion G protein-coupled receptor A3
+adhesion G protein-coupled receptor B1
+adhesion G protein-coupled receptor B2
+adhesion G protein-coupled receptor B3
+adhesion G protein-coupled receptor D1
+adhesion G protein-coupled receptor D2
+adhesion G protein-coupled receptor E1
+adhesion G protein-coupled receptor E2
+adhesion G protein-coupled receptor E3
+adhesion G protein-coupled receptor E5
+adhesion G protein-coupled receptor F1
+adhesion G protein-coupled receptor F2
+adhesion G protein-coupled receptor F3
+adhesion G protein-coupled receptor F4
+adhesion G protein-coupled receptor F5
+adhesion G protein-coupled receptor G1
+adhesion G protein-coupled receptor G2
+adhesion G protein-coupled receptor G3
+adhesion G protein-coupled receptor G4
+adhesion G protein-coupled receptor G5
+adhesion G protein-coupled receptor G6
+adhesion G protein-coupled receptor G7
+adhesion G protein-coupled receptor L1
+adhesion G protein-coupled receptor L2
+adhesion G protein-coupled receptor L3
+adhesion G protein-coupled receptor L4
+adhesion G protein-coupled receptor V1
+alcohol dehydrogenase 1A (class I), alpha polypeptide
+alcohol dehydrogenase 1B (class I), beta polypeptide
+alcohol dehydrogenase 1C (class I), gamma polypeptide
+alcohol dehydrogenase 4 (class II), pi polypeptide
+alcohol dehydrogenase 5 (class III), chi polypeptide
+alcohol dehydrogenase 6 (class V)
+alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide
+alcohol dehydrogenase iron containing 1
+acireductone dioxygenase 1
+adipogenin
+adiponectin, C1Q and collagen domain containing
+adiponectin receptor 1
+adiponectin receptor 2
+adipogenesis regulatory factor
+adenosine kinase
+adrenomedullin
+adrenomedullin 2
+adrenomedullin 5 (putative)
+activity dependent neuroprotector homeobox
+ADNP homeobox 2
+2-aminoethanethiol dioxygenase
+adenosine A1 receptor
+adenosine A2a receptor
+adenosine A2b receptor
+adenosine A3 receptor
+ADP dependent glucokinase
+ADP-ribosylarginine hydrolase
+ADP-ribosylhydrolase like 1
+ADP-ribose/CDP-alcohol diphosphatase, manganese dependent
+ADP-ribosylserine hydrolase
+adrenoceptor alpha 1A
+adrenoceptor alpha 1B
+adrenoceptor alpha 1D
+adrenoceptor alpha 2A
+adrenoceptor alpha 2B
+adrenoceptor alpha 2C
+adrenoceptor beta 1
+adrenoceptor beta 2
+adrenoceptor beta 3
+ADRM1 26S proteasome ubiquitin receptor
+adenylosuccinate lyase
+adenylosuccinate synthase 1
+adenylosuccinate synthase 2
+androgen dependent TFPI regulating protein
+AE binding protein 1
+AE binding protein 2
+apoptosis enhancing nuclease
+actin filament associated protein 1
+actin filament associated protein 1 like 1
+actin filament associated protein 1 like 2
+afadin, adherens junction formation factor
+AF4/FMR2 family member 1
+AF4/FMR2 family member 2
+AF4/FMR2 family member 3
+AF4/FMR2 family member 4
+AFG1 like ATPase
+AFG3 like matrix AAA peptidase subunit 2
+afamin
+arylformamidase
+alpha fetoprotein
+aftiphilin
+aspartylglucosaminidase
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 2
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 3
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 4
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 5
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 6
+ArfGAP with GTPase domain, ankyrin repeat and PH domain 9
+AGBL carboxypeptidase 1
+AGBL carboxypeptidase 2
+AGBL carboxypeptidase 3
+AGBL carboxypeptidase 4
+AGBL carboxypeptidase 5
+advanced glycosylation end-product specific receptor
+ArfGAP with FG repeats 1
+ArfGAP with FG repeats 2
+angiogenic factor with G-patch and FHA domains 1
+acylglycerol kinase
+amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase
+agmatinase
+alkylglycerol monooxygenase
+argonaute RISC component 1
+argonaute RISC catalytic component 2
+argonaute RISC catalytic component 3
+argonaute RISC component 4
+1-acylglycerol-3-phosphate O-acyltransferase 1
+1-acylglycerol-3-phosphate O-acyltransferase 2
+1-acylglycerol-3-phosphate O-acyltransferase 3
+1-acylglycerol-3-phosphate O-acyltransferase 4
+1-acylglycerol-3-phosphate O-acyltransferase 5
+alkylglycerone phosphate synthase
+anterior gradient 2, protein disulphide isomerase family member
+anterior gradient 3, protein disulphide isomerase family member
+agrin
+agouti related neuropeptide
+angiotensinogen
+ATP/GTP binding carboxypeptidase 1
+angiotensin II receptor type 1
+angiotensin II receptor type 2
+angiotensin II receptor associated protein
+alanine--glyoxylate and serine--pyruvate aminotransferase
+alanine--glyoxylate aminotransferase 2
+AT-hook containing transcription factor 1
+adenosylhomocysteinase
+adenosylhomocysteinase like 1
+adenosylhomocysteinase like 2
+AT-hook DNA binding motif containing 1
+Abelson helper integration site 1
+AHNAK nucleoprotein
+AHNAK nucleoprotein 2
+aryl hydrocarbon receptor
+aryl-hydrocarbon receptor repressor
+activator of HSP90 ATPase activity 1
+alpha 2-HS glycoprotein
+alpha hemoglobin stabilizing protein
+activation induced cytidine deaminase
+axin interactor, dorsalization associated
+allograft inflammatory factor 1
+allograft inflammatory factor 1 like
+apoptosis inducing factor mitochondria associated 1
+apoptosis inducing factor mitochondria associated 2
+apoptosis inducing factor mitochondria associated 3
+androgen induced 1
+absent in melanoma 2
+aminoacyl tRNA synthetase complex interacting multifunctional protein 1
+aminoacyl tRNA synthetase complex interacting multifunctional protein 2
+aryl hydrocarbon receptor interacting protein
+aryl hydrocarbon receptor interacting protein like 1
+autoimmune regulator
+adherens junctions associated protein 1
+apical junction component 1 homolog
+ajuba LIM protein
+adenylate kinase 1
+adenylate kinase 2
+adenylate kinase 3
+adenylate kinase 4
+adenylate kinase 5
+adenylate kinase 6
+adenylate kinase 7
+adenylate kinase 8
+adenylate kinase 9
+A-kinase anchor inhibitor 1
+A-kinase anchoring protein 1
+A-kinase anchoring protein 3
+A-kinase anchoring protein 4
+A-kinase anchoring protein 5
+A-kinase anchoring protein 6
+A-kinase anchoring protein 7
+A-kinase anchoring protein 8
+A-kinase anchoring protein 8 like
+A-kinase anchoring protein 9
+A-kinase anchoring protein 10
+A-kinase anchoring protein 11
+A-kinase anchoring protein 12
+A-kinase anchoring protein 13
+A-kinase anchoring protein 14
+A-kinase anchoring protein 17A
+A-kinase interacting protein 1
+akirin 1
+akirin 2
+AT-hook transcription factor
+AKNA domain containing 1
+aldo-keto reductase family 1 member A1
+aldo-keto reductase family 1 member B
+aldo-keto reductase family 1 member B10
+aldo-keto reductase family 1 member B15
+aldo-keto reductase family 1 member C1
+aldo-keto reductase family 1 member C2
+aldo-keto reductase family 1 member C3
+aldo-keto reductase family 1 member C4
+aldo-keto reductase family 1 member C8
+aldo-keto reductase family 1 member D1
+aldo-keto reductase family 1 member E2
+aldo-keto reductase family 7 member A2
+aldo-keto reductase family 7 member A3
+aldo-keto reductase family 7 like (gene/pseudogene)
+AKT serine/threonine kinase 1
+AKT1 substrate 1
+AKT serine/threonine kinase 2
+AKT serine/threonine kinase 3
+AKT interacting protein
+aminolevulinate dehydratase
+5'-aminolevulinate synthase 1
+5'-aminolevulinate synthase 2
+albumin
+activated leukocyte cell adhesion molecule
+aldehyde dehydrogenase 1 family member A1
+aldehyde dehydrogenase 1 family member A2
+aldehyde dehydrogenase 1 family member A3
+aldehyde dehydrogenase 1 family member B1
+aldehyde dehydrogenase 1 family member L1
+aldehyde dehydrogenase 1 family member L2
+aldehyde dehydrogenase 2 family member
+aldehyde dehydrogenase 3 family member A1
+aldehyde dehydrogenase 3 family member A2
+aldehyde dehydrogenase 3 family member B1
+aldehyde dehydrogenase 3 family member B2
+aldehyde dehydrogenase 4 family member A1
+aldehyde dehydrogenase 5 family member A1
+aldehyde dehydrogenase 6 family member A1
+aldehyde dehydrogenase 7 family member A1
+aldehyde dehydrogenase 8 family member A1
+aldehyde dehydrogenase 9 family member A1
+aldehyde dehydrogenase 16 family member A1
+aldehyde dehydrogenase 18 family member A1
+aldolase, fructose-bisphosphate A
+aldolase, fructose-bisphosphate B
+aldolase, fructose-bisphosphate C
+ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase
+ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase like
+ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase like 2
+ALG2 alpha-1,3/1,6-mannosyltransferase
+ALG3 alpha-1,3- mannosyltransferase
+ALG5 dolichyl-phosphate beta-glucosyltransferase
+ALG6 alpha-1,3-glucosyltransferase
+ALG8 alpha-1,3-glucosyltransferase
+ALG9 alpha-1,2-mannosyltransferase
+ALG10 alpha-1,2-glucosyltransferase
+ALG10 alpha-1,2-glucosyltransferase B
+ALG11 alpha-1,2-mannosyltransferase
+ALG12 alpha-1,6-mannosyltransferase
+ALG13 UDP-N-acetylglucosaminyltransferase subunit
+ALG14 UDP-N-acetylglucosaminyltransferase subunit
+ALK receptor tyrosine kinase
+ALK and LTK ligand 1
+ALK and LTK ligand 2
+alkB homolog 1, histone H2A dioxygenase
+alkB homolog 2, alpha-ketoglutarate dependent dioxygenase
+alkB homolog 3, alpha-ketoglutarate dependent dioxygenase
+alkB homolog 4, lysine demethylase
+alkB homolog 5, RNA demethylase
+alkB homolog 6
+alkB homolog 7
+alkB homolog 8, tRNA methyltransferase
+allantoicase
+ALMS1 centrosome and basal body associated protein
+arachidonate 5-lipoxygenase
+arachidonate 5-lipoxygenase activating protein
+arachidonate 12-lipoxygenase, 12S type
+arachidonate 12-lipoxygenase, 12R type
+arachidonate 15-lipoxygenase
+arachidonate 15-lipoxygenase type B
+arachidonate lipoxygenase 3
+alkaline phosphatase, germ cell
+alkaline phosphatase, intestinal
+alpha kinase 1
+alpha kinase 2
+alpha kinase 3
+alkaline phosphatase, biomineralization associated
+alkaline phosphatase, placental
+alsin Rho guanine nucleotide exchange factor ALS2
+ALS2 C-terminal like
+ALX homeobox 1
+ALX homeobox 3
+ALX homeobox 4
+Aly/REF export factor
+alpha-methylacyl-CoA racemase
+ameloblastin
+alpha-1-microglobulin/bikunin precursor
+autophagy and beclin 1 regulator 1
+adenosylmethionine decarboxylase 1
+amidohydrolase domain containing 1
+amidohydrolase domain containing 2
+amelogenin X-linked
+amelogenin Y-linked
+APC membrane recruitment protein 1
+APC membrane recruitment protein 2
+APC membrane recruitment protein 3
+autocrine motility factor receptor
+anti-Mullerian hormone
+anti-Mullerian hormone receptor type 2
+adhesion molecule with Ig like domain 1
+adhesion molecule with Ig like domain 2
+adhesion molecule with Ig like domain 3
+AMMECR nuclear protein 1
+AMMECR1 like
+amnion associated transmembrane protein
+antagonist of mitotic exit network 1 homolog
+angiomotin
+angiomotin like 1
+angiomotin like 2
+adenosine monophosphate deaminase 1
+adenosine monophosphate deaminase 2
+adenosine monophosphate deaminase 3
+amphiphysin
+aminomethyltransferase
+amelotin
+amylase alpha 1A
+amylase alpha 1B
+amylase alpha 1C
+amylase alpha 2A
+amylase alpha 2B
+archaelysin family metallopeptidase 1
+archaelysin family metallopeptidase 2
+anaphase promoting complex subunit 1
+anaphase promoting complex subunit 2
+anaphase promoting complex subunit 4
+anaphase promoting complex subunit 5
+anaphase promoting complex subunit 7
+anaphase promoting complex subunit 10
+anaphase promoting complex subunit 11
+anaphase promoting complex subunit 13
+anaphase promoting complex subunit 15
+anaphase promoting complex subunit 16
+angiogenin
+angel homolog 1
+angel homolog 2
+angiopoietin 1
+angiopoietin 2
+angiopoietin 4
+angiopoietin like 1
+angiopoietin like 2
+angiopoietin like 3
+angiopoietin like 4
+angiopoietin like 5
+angiopoietin like 6
+angiopoietin like 7
+angiopoietin like 8
+anomalous homeobox
+ankyrin 1
+ankyrin 2
+ankyrin 3
+ankyrin and armadillo repeat containing
+ankyrin repeat and death domain containing 1A
+ankyrin repeat and death domain containing 1B
+ankyrin repeat and EF-hand domain containing 1
+ankyrin repeat and fibronectin type III domain containing 1
+ankyrin repeat and FYVE domain containing 1
+ANKH inorganic pyrophosphate transport regulator
+ankyrin repeat and KH domain containing 1
+ankyrin repeat and IBR domain containing 1
+ankyrin repeat and kinase domain containing 1
+ankyrin repeat and LEM domain containing 1
+ankyrin repeat and LEM domain containing 2
+ankyrin repeat and MYND domain containing 1
+ankyrin repeat and MYND domain containing 2
+ankyrin repeat family A member 2
+ankyrin repeat domain 1
+ankyrin repeat domain 2
+ankyrin repeat domain 6
+ankyrin repeat domain 7
+ankyrin repeat domain 9
+ankyrin repeat domain 10
+ankyrin repeat domain containing 11
+ankyrin repeat domain 12
+ankyrin repeat domain 13A
+ankyrin repeat domain 13B
+ankyrin repeat domain 13C
+ankyrin repeat domain 13D
+ankyrin repeat domain 16
+ankyrin repeat domain 17
+ankyrin repeat domain 18A
+ankyrin repeat domain 18B
+ankyrin repeat domain 20 family member A1
+ankyrin repeat domain 22
+ankyrin repeat domain 23
+ankyrin repeat domain 24
+ankyrin repeat domain containing 26
+ankyrin repeat domain 27
+ankyrin repeat domain 28
+ankyrin repeat domain 29
+ankyrin repeat domain 30A
+ankyrin repeat domain 30B
+ankyrin repeat domain 30B like
+ankyrin repeat domain 31
+ankyrin repeat domain 33
+ankyrin repeat domain 33B
+ankyrin repeat domain 34A
+ankyrin repeat domain 34B
+ankyrin repeat domain 34C
+ankyrin repeat domain 35
+ankyrin repeat domain 36
+ankyrin repeat domain 36B
+ankyrin repeat domain 36C
+ankyrin repeat domain 37
+ankyrin repeat domain 39
+ankyrin repeat domain 40
+ANKRD40 C-terminal like
+ankyrin repeat domain 42
+ankyrin repeat domain 44
+ankyrin repeat domain 45
+ankyrin repeat domain 46
+ankyrin repeat domain 49
+ankyrin repeat domain containing 50
+ankyrin repeat domain 52
+ankyrin repeat domain 53
+ankyrin repeat domain 54
+ankyrin repeat domain 55
+ankyrin repeat domain 60
+ankyrin repeat domain 61
+ankyrin repeat domain 62
+ankyrin repeat domain 63
+ankyrin repeat domain 65
+ankyrin repeat domain 66
+ankyrin repeat and sterile alpha motif domain containing 1A
+ankyrin repeat and sterile alpha motif domain containing 1B
+ankyrin repeat and sterile alpha motif domain containing 3
+ankyrin repeat and sterile alpha motif domain containing 4B
+ankyrin repeat and sterile alpha motif domain containing 6
+ankyrin repeat and ubiquitin domain containing 1
+ankyrin repeat and zinc finger peptidyl tRNA hydrolase 1
+anillin actin binding protein
+anoctamin 1
+anoctamin 2
+anoctamin 3
+anoctamin 4
+anoctamin 5
+anoctamin 6
+anoctamin 7
+anoctamin 8
+anoctamin 9
+anoctamin 10
+anosmin 1
+acidic nuclear phosphoprotein 32 family member A
+acidic nuclear phosphoprotein 32 family member B
+acidic nuclear phosphoprotein 32 family member D
+acidic nuclear phosphoprotein 32 family member E
+alanyl aminopeptidase, membrane
+adenine nucleotide translocase lysine methyltransferase
+ANTXR cell adhesion molecule 1
+ANTXR cell adhesion molecule 2
+ANTXR like
+annexin A1
+annexin A2
+annexin A2 receptor
+annexin A3
+annexin A4
+annexin A5
+annexin A6
+annexin A7
+annexin A8
+annexin A8 like 1
+annexin A9
+annexin A10
+annexin A11
+annexin A13
+acyloxyacyl hydrolase
+amine oxidase copper containing 1
+amine oxidase copper containing 2
+amine oxidase copper containing 3
+aminopeptidase O (putative)
+aldehyde oxidase 1
+adaptor related protein complex 1 associated regulatory protein
+adaptor related protein complex 1 subunit beta 1
+adaptor related protein complex 1 subunit gamma 1
+adaptor related protein complex 1 subunit gamma 2
+adaptor related protein complex 1 subunit mu 1
+adaptor related protein complex 1 subunit mu 2
+adaptor related protein complex 1 subunit sigma 1
+adaptor related protein complex 1 subunit sigma 2
+adaptor related protein complex 1 subunit sigma 3
+adaptor related protein complex 2 subunit alpha 1
+adaptor related protein complex 2 subunit alpha 2
+adaptor related protein complex 2 subunit beta 1
+adaptor related protein complex 2 subunit mu 1
+adaptor related protein complex 2 subunit sigma 1
+adaptor related protein complex 3 subunit beta 1
+adaptor related protein complex 3 subunit beta 2
+adaptor related protein complex 3 subunit delta 1
+adaptor related protein complex 3 subunit mu 1
+adaptor related protein complex 3 subunit mu 2
+adaptor related protein complex 3 subunit sigma 1
+adaptor related protein complex 3 subunit sigma 2
+adaptor related protein complex 4 subunit beta 1
+adaptor related protein complex 4 subunit epsilon 1
+adaptor related protein complex 4 subunit mu 1
+adaptor related protein complex 4 subunit sigma 1
+adaptor related protein complex 5 subunit beta 1
+adaptor related protein complex 5 subunit mu 1
+adaptor related protein complex 5 subunit sigma 1
+adaptor related protein complex 5 subunit zeta 1
+apoptotic peptidase activating factor 1
+amyloid beta precursor protein binding family A member 1
+amyloid beta precursor protein binding family A member 2
+amyloid beta precursor protein binding family A member 3
+amyloid beta precursor protein binding family B member 1
+amyloid beta precursor protein binding family B member 1 interacting protein
+amyloid beta precursor protein binding family B member 2
+amyloid beta precursor protein binding family B member 3
+APC regulator of WNT signaling pathway
+APC regulator of WNT signaling pathway 2
+APC down-regulated 1
+APC down-regulated 1 like
+amyloid P component, serum
+acylaminoacyl-peptide hydrolase
+apelin receptor early endogenous ligand
+apurinic/apyrimidinic endodeoxyribonuclease 1
+apurinic/apyrimidinic endodeoxyribonuclease 2
+aph-1 homolog A, gamma-secretase subunit
+aph-1 homolog B, gamma-secretase subunit
+apoptosis inhibitor 5
+APAF1 interacting protein
+aprataxin and PNKP like factor
+apelin
+apelin receptor
+amyloid beta precursor like protein 1
+amyloid beta precursor like protein 2
+adipocyte plasma membrane associated protein
+apolipoprotein A1
+apolipoprotein A2
+apolipoprotein A4
+apolipoprotein A5
+apolipoprotein B
+apolipoprotein B mRNA editing enzyme catalytic subunit 1
+apolipoprotein B mRNA editing enzyme catalytic subunit 2
+apolipoprotein B mRNA editing enzyme catalytic subunit 3A
+apolipoprotein B mRNA editing enzyme catalytic subunit 3B
+apolipoprotein B mRNA editing enzyme catalytic subunit 3C
+apolipoprotein B mRNA editing enzyme catalytic subunit 3D
+apolipoprotein B mRNA editing enzyme catalytic subunit 3F
+apolipoprotein B mRNA editing enzyme catalytic subunit 3G
+apolipoprotein B mRNA editing enzyme catalytic subunit 3H
+apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4
+apolipoprotein B receptor
+apolipoprotein C1
+apolipoprotein C2
+apolipoprotein C3
+apolipoprotein C4
+apolipoprotein D
+apolipoprotein E
+apolipoprotein F
+apolipoprotein H
+apolipoprotein L1
+apolipoprotein L2
+apolipoprotein L3
+apolipoprotein L4
+apolipoprotein L5
+apolipoprotein L6
+apolipoprotein L domain containing 1
+apolipoprotein M
+apolipoprotein O
+apolipoprotein O like
+amyloid beta precursor protein
+amyloid beta precursor protein binding protein 2
+adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1
+adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2
+adenine phosphoribosyltransferase
+aprataxin
+aquaporin 1 (Colton blood group)
+aquaporin 2
+aquaporin 3 (Gill blood group)
+aquaporin 4
+aquaporin 5
+aquaporin 6
+aquaporin 7
+aquaporin 7B
+aquaporin 8
+aquaporin 9
+aquaporin 10
+aquaporin 11
+aquaporin 12A
+aquaporin 12B
+aquarius intron-binding spliceosomal factor
+androgen receptor
+A-Raf proto-oncogene, serine/threonine kinase
+ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1
+ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2
+ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3
+activity regulated cytoskeleton associated protein
+archain 1
+amphiregulin
+apoptosis resistant E3 ubiquitin protein ligase 1
+ADP ribosylation factor 1
+ADP ribosylation factor 3
+ADP ribosylation factor 4
+ADP ribosylation factor 5
+ADP ribosylation factor 6
+ADP ribosylation factor GTPase activating protein 1
+ADP ribosylation factor GTPase activating protein 2
+ADP ribosylation factor GTPase activating protein 3
+ADP ribosylation factor guanine nucleotide exchange factor 1
+ADP ribosylation factor guanine nucleotide exchange factor 2
+ARFGEF family member 3
+ADP ribosylation factor interacting protein 1
+ADP ribosylation factor interacting protein 2
+ADP ribosylation factor related protein 1
+arginase 1
+arginase 2
+arginine-fifty homeobox
+arginine and glutamate rich 1
+Rho GTPase activating protein 1
+Rho GTPase activating protein 4
+Rho GTPase activating protein 5
+Rho GTPase activating protein 6
+Rho GTPase activating protein 8
+Rho GTPase activating protein 9
+Rho GTPase activating protein 10
+Rho GTPase activating protein 11A
+Rho GTPase activating protein 11B
+Rho GTPase activating protein 12
+Rho GTPase activating protein 15
+Rho GTPase activating protein 17
+Rho GTPase activating protein 18
+Rho GTPase activating protein 19
+Rho GTPase activating protein 20
+Rho GTPase activating protein 21
+Rho GTPase activating protein 22
+Rho GTPase activating protein 23
+Rho GTPase activating protein 24
+Rho GTPase activating protein 25
+Rho GTPase activating protein 26
+Rho GTPase activating protein 27
+Rho GTPase activating protein 28
+Rho GTPase activating protein 29
+Rho GTPase activating protein 30
+Rho GTPase activating protein 31
+Rho GTPase activating protein 32
+Rho GTPase activating protein 33
+Rho GTPase activating protein 35
+Rho GTPase activating protein 36
+Rho GTPase activating protein 39
+Rho GTPase activating protein 40
+Rho GTPase activating protein 42
+Rho GTPase activating protein 44
+Rho GTPase activating protein 45
+Rho GDP dissociation inhibitor alpha
+Rho GDP dissociation inhibitor beta
+Rho GDP dissociation inhibitor gamma
+Rho guanine nucleotide exchange factor 1
+Rho/Rac guanine nucleotide exchange factor 2
+Rho guanine nucleotide exchange factor 3
+Rho guanine nucleotide exchange factor 4
+Rho guanine nucleotide exchange factor 5
+Rac/Cdc42 guanine nucleotide exchange factor 6
+Rho guanine nucleotide exchange factor 7
+Cdc42 guanine nucleotide exchange factor 9
+Rho guanine nucleotide exchange factor 10
+Rho guanine nucleotide exchange factor 10 like
+Rho guanine nucleotide exchange factor 11
+Rho guanine nucleotide exchange factor 12
+Rho guanine nucleotide exchange factor 15
+Rho guanine nucleotide exchange factor 16
+Rho guanine nucleotide exchange factor 17
+Rho/Rac guanine nucleotide exchange factor 18
+Rho guanine nucleotide exchange factor 19
+Rho guanine nucleotide exchange factor 25
+Rho guanine nucleotide exchange factor 26
+Rho guanine nucleotide exchange factor 28
+Rho guanine nucleotide exchange factor 33
+Rho guanine nucleotide exchange factor 35
+Rho guanine nucleotide exchange factor 37
+Rho guanine nucleotide exchange factor 38
+Rho guanine nucleotide exchange factor 39
+Rho guanine nucleotide exchange factor 40
+AT-rich interaction domain 1A
+AT-rich interaction domain 1B
+AT-rich interaction domain 2
+AT-rich interaction domain 3A
+AT-rich interaction domain 3B
+AT-rich interaction domain 3C
+AT-rich interaction domain 4A
