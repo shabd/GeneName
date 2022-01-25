@@ -51,15 +51,3 @@ class TextFile:
             finally:
                 f.close()
 
-
-
-
-
-
-
-
-
-
-# a = TextFile("gene_name.txt")
-# sorted_value = a.read_and_sort_file()
-# a.write_sorted_names(sorted_value)

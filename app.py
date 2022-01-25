@@ -1,10 +1,18 @@
+from text_file import TextFile, allowed_file_type
 from wtforms.validators import ValidationError
 from flask import Flask, render_template, request, redirect
 from werkzeug.utils import secure_filename
-from text_file import TextFile ,allowed_file_type
+
+
 app = Flask(__name__)
 
 app.config["UPLOAD_FOLDER"] = "static/"
+app.config['MAX_CONTENT_LENGTH'] = 1024 * 1024
+
+
+@app.errorhandler(413)
+def too_large(e):
+    return "File is too large", 413
 
 
 @app.route('/')
@@ -28,9 +36,7 @@ def display_file():
 
         if file_type.lower() not in allowed_file_type():
             raise ValidationError({"file":"unsupported file type"})
-            return render_template()
             
-
         
         # store uploaded files in static folder
         f.save(app.config['UPLOAD_FOLDER'] + filename)

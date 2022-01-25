@@ -1,7 +1,6 @@
 
 import unittest
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
 
 # inherit TestCase Class and create a new test class

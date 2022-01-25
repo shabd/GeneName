@@ -1,10 +1,16 @@
 
+Creating a virtual enviroment:
+python3 -m venv <name_of_virtualenv>
 
-
+Installing 
 To run python tests:
 python -m unittest discover tests/unit_tests   
 
-To run Seluim tests:
+
+You need Geckodrive to run selenium tests , you can follow this on how to set up:
+https://www.geeksforgeeks.org/how-to-install-selenium-in-python/
+
+To run selenium tests:
 python tests/web_tests/test_web_page.py
 *please not the the text file path will need to be update with your file path
 
